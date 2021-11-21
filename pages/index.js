@@ -20,7 +20,7 @@ export default function Home() {
                 <meta name="keywords" content="Test" />
             </Head>
 
-            <div className=''>
+            <div className='pb-10'>
                 {/* <div className='p-4'>
                     <button className='px-5 py-2 bg-blue-700 text-white rounded mr-4' onClick={() => { setSwitcher("male") }}>Male</button>
                     <button className='px-5 py-2 bg-blue-700 text-white rounded' onClick={() => { setSwitcher("female") }}>Female</button>
